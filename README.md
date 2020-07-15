@@ -1,6 +1,8 @@
 # dev-test
 Zadania rekrutacyjne - Logisfera Nova
 
+Zadania wykonane w Java 8
+
 ## Task1
 W nawiasie asList() mo¿na przekazaæ dowoln¹ tablicê elementów do sprawdzenia
 elementsList.addAll(Arrays.asList(1, 10, 20, 20, 2, 5));
